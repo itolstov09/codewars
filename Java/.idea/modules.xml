@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/6kyu/6kyu.iml" filepath="$PROJECT_DIR$/6kyu/6kyu.iml" />
       <module fileurl="file://$PROJECT_DIR$/7kyu/7kyu.iml" filepath="$PROJECT_DIR$/7kyu/7kyu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
     </modules>
